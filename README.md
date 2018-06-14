@@ -3,8 +3,8 @@
 June 13, 2018
 
 This captures a (working!) point-in-time set of instructions for setting up
-an environment on ubuntu/trusty for using selenium/webkit to drive Firefox
-and Chrome and a simple working example.
+an environment on ubuntu/trusty for using selenium/webdriver to drive Firefox
+and Chrome and includes a simple working example.
 
 The details of getting this stuff working appear to change often,
 and much of the doc that Google uncovers is stale.
